@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "67e4ef047b3ee9f53a7b4aaf"
+  },
+  "content": "editar el primer comentario",
+  "keeperUser": {
+    "$oid": "67e4e8797b3ee9f53a7b4a72"
+  },
+  "keeperPost": {
+    "$oid": "67e4eaad7b3ee9f53a7b4a87"
+  },
+  "status": false,
+  "createdAt": {
+    "$date": "2025-03-27T06:24:04.667Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-27T06:32:29.817Z"
+  }
+}]

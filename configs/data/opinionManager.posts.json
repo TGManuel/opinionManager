@@ -1,0 +1,20 @@
+[{
+  "_id": {
+    "$oid": "67e4eaad7b3ee9f53a7b4a87"
+  },
+  "title": "Prueba 2",
+  "category": {
+    "$oid": "67e4e785c10779004e18d1dd"
+  },
+  "content": "la preba uno pero editada",
+  "keeper": {
+    "$oid": "67e4e8797b3ee9f53a7b4a72"
+  },
+  "status": true,
+  "createdAt": {
+    "$date": "2025-03-27T06:05:33.892Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-27T06:11:19.403Z"
+  }
+}]

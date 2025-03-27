@@ -1,0 +1,26 @@
+[{
+  "_id": {
+    "$oid": "67e4e8797b3ee9f53a7b4a72"
+  },
+  "name": "Admin",
+  "surname": "Admin",
+  "username": "admin",
+  "email": "admin@gmail.com",
+  "password": "$argon2id$v=19$m=65536,t=3,p=4$b/H+Mjrq9uMajX7813QlFQ$B1IqX82GLygpBiY0OzLUU7MRCGGVwudcVyuSE+tVDzc",
+  "role": "ADMIN_ROLE",
+  "estado": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67e4e88f7b3ee9f53a7b4a76"
+  },
+  "name": "Prueba",
+  "surname": "numero 1",
+  "username": "P1",
+  "email": "prueba1@gmail.com",
+  "password": "$argon2id$v=19$m=65536,t=3,p=4$lsahVGgeiyI97CoMbR7GGw$LALGoqRNyWobRjpwgeM9IbvIqTQB2TSPnfXywaBKZh4",
+  "role": "ADMIN_ROLE",
+  "estado": true,
+  "__v": 0
+}]
